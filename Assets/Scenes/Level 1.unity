@@ -1301,7 +1301,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[0]'
-      value: To pick up a cube, use E
+      value: To pick up the cube, use E
       objectReference: {fileID: 0}
     - target: {fileID: 3920147214174625090, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: m_LocalScale.x
@@ -1787,7 +1787,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[0]'
-      value: Get the cube onto the sensor to proceed!
+      value: Get the cube on the sensor to proceed
       objectReference: {fileID: 0}
     - target: {fileID: 3920147214174625090, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: m_LocalScale.x

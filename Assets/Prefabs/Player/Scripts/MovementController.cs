@@ -63,7 +63,6 @@ public class PlayerController : MonoBehaviour
         {
             _rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Force);
             _isJumping = true;
-            _jumpTimer = 0f;
             _lastGroundedHorizontalInput = _moveHorizontal;
         }
 

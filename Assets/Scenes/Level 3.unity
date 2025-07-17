@@ -857,7 +857,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[0]'
-      value: Think you've got the controls down? Let's find out!
+      value: Think you've got the controls down? Let's find out
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[1]'

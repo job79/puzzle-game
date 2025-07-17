@@ -5775,15 +5775,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[0]'
-      value: Let's see how well you can handle multiple cubes
+      value: Its time to introduce more cubes
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[1]'
-      value: Heads up, moving the current map's cube will reset all other cubes
+      value: Please note, moving the current map's cube will reset all other cubes
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[2]'
-      value: Not clear? Don't worry, you'll find out soon enough!
+      value: Not clear? Don't worry, you'll find out soon enough
       objectReference: {fileID: 0}
     - target: {fileID: 3920147214174625090, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: m_LocalScale.x

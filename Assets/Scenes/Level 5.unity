@@ -4220,7 +4220,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[0]'
-      value: Walls are no problem, just grab the cube through the wall!
+      value: Walls? What walls? Go ahead and grab the cube right through them
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[1]'

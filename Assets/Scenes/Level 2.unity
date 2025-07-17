@@ -969,7 +969,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[0]'
-      value: Bounce on the ground to jump higher!
+      value: Bounce on the ground to jump higher
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[1]'
@@ -1233,15 +1233,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: helpText.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[0]'
-      value: Press J to switch between different parallel maps
+      value: Can't get out?
       objectReference: {fileID: 0}
     - target: {fileID: 2571339315337250241, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: 'helpText.Array.data[1]'
-      value: Veloci
+      value: These walls are no problem, press J to switch between different parallel
+        maps
       objectReference: {fileID: 0}
     - target: {fileID: 3920147214174625090, guid: 0d4cd3ff21e96985993e891929cc2b79, type: 3}
       propertyPath: m_LocalPosition.x
